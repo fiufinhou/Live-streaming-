@@ -1,6 +1,6 @@
 const socket = io();
 const myPeer = new Peer(undefined, {
-  host: '/',
+  host: 'https://fiufinhou.github.io/Live-streaming-/',
   port: '3001',
 });
 
